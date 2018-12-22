@@ -1,0 +1,11 @@
+title = "Super Mario Land"
+description = "Super Mario Land is a 2D platformer originally created for the Nintendo Game Boy. In this game, the player will navigate through a series of levels in order to save princess daisy."
+needs_system_files = false
+needs_shared_font = false
+game_type = "vc"
+vc_system = "gb"
+
+[[releases]]
+title = "0004000000040800"
+region = "usa"
+release_date = "2011-06-06"
